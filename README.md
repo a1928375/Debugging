@@ -73,3 +73,5 @@ To see if a test case is still "interesting", we would run our program on it and
              return False 
 
 Your task is to write a function autodebug(test,interesting). It returns a smallest subset (sublist) of test such that that subset is makes interesting returns true. "Smallest" is measured by list length. You may assume that that input test is interesting. Hint: Compose "find all subsets" with "find max". 
+
+(3) Fix The Bug
